@@ -1,2 +1,5 @@
+15/02/2018 marco.vanadia@cern.ch
+   * Created repository subfolder structure
+   * create first example of an executable class, util/myFirstExample.cxx
 12/02/2018 marco.vanadia@cern.ch
    * Setting up repository skeleton
